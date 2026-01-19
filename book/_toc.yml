@@ -18,8 +18,4 @@ parts:
     - file: chapter7.md
     - file: chapter8.md
   
-  - caption: Miscellaneous
-    chapters:
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+
