@@ -4,6 +4,12 @@
 _An introduction to psychological science and research,
 for discussions in a PBL context._
 
+![cartoon by arend van dam](https://github.com/user-attachments/assets/d348b80f-0325-4610-914c-071ffe183728)
+<p align="right"><small>© Cartoon by Arend van Dam, used with permission.</small></p>
+
+
+
+
 **Preface**
 
 In the year 2024/2025 the BSc psychology program at UM was completely overhauled. This resulted in a totally new program, and a new approach to teaching and grading. This booklet originated from a UM library grant to make teaching material available for a wider audience than the UM psychology students it was originally aimed at.
