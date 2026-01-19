@@ -1,4 +1,3 @@
-# Chapter 6 
 # A replication crisis in psychological science
 
 Psychological science has been under serious scrutiny, since a few decades now. Academic psychology suffers from a ‘replicability crisis’. This seemed to hit social psychology, and priming studies, in particular (cf. Kahneman 2012), but other psychological fields are not immune to it (Open Science Collaboration 2015). What is the problem? Many psychological experiments have shown to be unable to yield the same results upon repetition. Some of these experiments have resulted in theories that appeared in well-known journals and well-cited publications. Some have become part of psychological theorising for several decades. When a particular finding cannot be repeated, many theorising based on it may be lacking a foundation. How can it happen that a scientific result turns out to have been a one-off result?
