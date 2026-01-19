@@ -1,0 +1,8 @@
+# Chapter 7
+# Concluding
+
+I may be biased, being a psychological scientist, but psychology is a very special science among its brethren sciences. It uses the very subject of its studies to study its objects. The previous sentence is intendedly ambiguous. Humans study humans, mind measuring mind, which sounds like an approach waiting for methodological disaster to strike. Nevertheless, it’s a great science, perhaps for this very same reason. It’s also one of the reasons that some deeply human properties, most prominently consciousness, prove so difficult to study. Subjective experience may be impossible to study. Like the taxi driver who only drives people that do not drive themselves. Who will drive the taxi driver?
+
+Strict methodological questions force us to think about our stances with respect to how we interpret the world, and the position of ourselves in it. We can be materialists, who think everything is matter, and a subjective experience is nothing more than the activity of a biological system, of a brain, of neurons, of molecules, of atoms and electric forces, which all follow the laws of physics. We can also be idealists, who claim that there is something that thinks up the world and itself in it, including its biology, brain, neurons, molecules, atoms and electric forces, including the physical laws.
+
+There’s no answer, as yet. The quest for an answer has occupied humans for centuries, and me for decades. It’s still the most fun quest I can think of.
