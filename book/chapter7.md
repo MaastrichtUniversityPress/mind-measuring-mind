@@ -1,4 +1,3 @@
-# Chapter 7
 # Concluding
 
 I may be biased, being a psychological scientist, but psychology is a very special science among its brethren sciences. It uses the very subject of its studies to study its objects. The previous sentence is intendedly ambiguous. Humans study humans, mind measuring mind, which sounds like an approach waiting for methodological disaster to strike. Nevertheless, it’s a great science, perhaps for this very same reason. It’s also one of the reasons that some deeply human properties, most prominently consciousness, prove so difficult to study. Subjective experience may be impossible to study. Like the taxi driver who only drives people that do not drive themselves. Who will drive the taxi driver?
