@@ -1,0 +1,15 @@
+# Three suggestions for validity
+
+Based on some of the above mentioned ideas, Dijksterhuis et al. (2022) proposed three criteria for, what they find, ‘valid’ research method for (applied) psychological science. The three criteria are not intended to disqualify any research method. They do not specify their strict application, rather they were intended as a rule of thumb, enabling researchers to get an idea of the validity of a host of different methods. They may prompt them to find a method that best fits their specific behavioural research question. The criteria address to what level of detail a subject in a psychological study is aware of the measurement situation he or she is in. The idea being that such awareness may interfere with the result of the measurement. The three criteria address circumstances compromising validity, they are:
+
+1.  _Reflection_: the research method requires the ‘person(a)’ of the subject, i.e. he/she needs to think about his-/herself or his/her behaviour,
+2.  _Awareness_: the method requires the subject to know he or she is being tested,
+3.  _Informed_: the method requires the subject to know the underlying research question.
+
+Some methods (criterion 1, ‘reflection’) require subjects to reflect on their own situation and past, future, or even hypothetical behaviour. This is the case in many survey or interview oriented methods. This is also underlying the well-known difference between _stated_ and _revealed_ preference in economics. In revealed preference theory, the measurement does not interfere with the consumer, as it only considers what is actually been bought or chosen.
+
+In some methods, it is inescapable that the subject in a psychological study knows he/she is being tested (criterion 2, ‘awareness’). It is hardly possible to measure psychophysiological parameters without the participant knowing that a measurement is performed. Knowing to be in a test can influence the way participants behave. However, the research question itself need not be disclosed in these measurements.
+
+Regarding criterion 3 (‘informed’), there are types of methods, e.g. group discussions or interviews, in which participants are directly inquired about their view on the research question, so they have to know the research question, or they can’t be part of the study.
+
+The authors argue that a for a valid research method, none of the criteria apply. If any of them is true for a measurement method, the method’s validity might be called in question. Obviously, the scoring of the criteria is not an exact matter. It can be discussed, and it will depend on the exact way measurements are performed and research situations are constructed. This is also one of the main points in specifying these criteria (see Dijksterhuis et al. 2022), viz. that they should be discussed and that the validity of psychological measurements should never be taken for granted. The three criteria can therefore also be regarded as a guiding tool to reflect on and support decision making in psychological research.
