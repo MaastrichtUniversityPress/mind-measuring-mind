@@ -26,6 +26,7 @@ sphinx:                                              # Options passed on to the 
     html_theme_options:
       logo:
         text:        Mind Measuring Mind             # Replace this with your own book title, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
+ extra_footer: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         image_light: TeachBooks_logo.svg             # Put your logo for the light mode here (can be the same as image_dark), configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
         image_dark:  TeachBooks_logo_inverted.svg    # Put your logo for the dark mode here (can be the same as image_light), configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
       repository_url: "https://github.com/MaastrichtUniversityPress/mind-measuring-mind" # Add your own repo URL here, configuration part of Jupyterbook v1 (https://jupyterbook.org/en/stable/customize/config.html)
@@ -86,7 +87,7 @@ sphinx:                                              # Options passed on to the 
         default_date: today                          # Default value (line can be removed), sets default data to date of build, configuration part of Sphinx Metadata Figure (https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Metadata-Figure/main/MANUAL.html)
       copyright:
         substitute_missing: false                    # Default value (line can be removed), doesn't substitue missing copyright with default copyright, configuration part of Sphinx Metadata Figure (https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Metadata-Figure/main/MANUAL.html)
-        default_copyright: authoryear                # Default value (line can be removed), sets default copyright to author and year, configuration part of Sphinx Metadata Figure (https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Metadata-Figure/main/MANUAL.html)
+        default_copyright: 2026                # Default value (line can be removed), sets default copyright to author and year, configuration part of Sphinx Metadata Figure (https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Metadata-Figure/main/MANUAL.html)
       source:
         warn_missing: false                          # Default value (line can be removed), doesn't raise a warning for missing sources, configuration part of Sphinx Metadata Figure (https://teachbooks.io/manual/_git/github.com_TeachBooks_Sphinx-Metadata-Figure/main/MANUAL.html)
     git_untracked_check_dependencies: false          # Doesn't check date of dependencies if file is not tracked by git (yet), configuration part of Sphinx-Last-Updated-by-Git (https://github.com/TeachBooks/sphinx-last-updated-by-git)
