@@ -18,21 +18,23 @@ Another set of measurements concerns psychological properties _of people_, like 
 
 Examples of fields in psychology that concern themselves mainly with measurements _of people_ are Personality Psychology and Clinical Psychology. Fields studying mainly measurements _by people_ are Psychophysics, Perception Psychology and Social Psychology.
 
-Figure 8 Overview of different types of measurement in psychology (with examples from the text shown).
+<img width="933" height="390" alt="figure 8" src="https://github.com/user-attachments/assets/86c3d6b3-3fa3-48cd-ab26-b95d8ae9dc42" />
+
+_Figure 8 Overview of different types of measurement in psychology (with examples from the text shown)._
 
 ## What exactly is measuring?
 
 What are we really doing when are measuring something? Back to physics, and a very simple concept we all know: length or distance. One can measure the length of something with a ruler, and read off a number, typically in cm (one hundredth of a meter, Figure 9, left part). One can measure a distance to travel by reading off a number in Google Maps (in km (1000 m), Figure 9, middle part), or the odometer on your bike or in your car (Figure 9, right part). It’ll typically tell you a number of meters. There is a concept or an idea, length (or electric potential, intelligence, extraversion, or what have you), and to this you connect a number. Mostly a number, but it’s not uncommon to connect a word, often an adjective, that signals the outcome of a measurement of a concept. Some buildings may be characterised as ‘ugly’, your hedonic measurement of the aesthetic quality of a building may have this outcome.
 
- 
+<img width="1326" height="331" alt="figure 9" src="https://github.com/user-attachments/assets/a3446db2-a8d4-4652-a567-7fea52b30388" />
 
-Figure 9 Measuring lengths (left: adding a number (8 cm) to the length of a pencil; middle: adding a number (137 km) to the distance between Papenhoven, the Netherlands (where I live) and the University Hospital of Bonn, Germany; right: total distance a car has travelled, reading off the odometer, here showing 162,421 km).
+_Figure 9 Measuring lengths (left: adding a number (8 cm) to the length of a pencil; middle: adding a number (137 km) to the distance between Papenhoven, the Netherlands (where I live) and the University Hospital of Bonn, Germany; right: total distance a car has travelled, reading off the odometer, here showing 162,421 km)._
 
 Another measurement all of us make many times a day is shown in Figure 10. Yes, this is a measurement too. We have agreed on certain moments on the day by giving them a special name, say noon, midnight, 10 o'clock, or 15:34. Relative to the agreement we measure the moment on the day by looking at a clock. What this has to do with psychology? Not a lot, but these are examples. But by the way, durations, the difference between two points in time, are used in psychology a lot, as reaction times. Some EEG measurements may show a difference in processing speed between two conditions of 12 ms (milliseconds, 1/1000 of a second), or you may take 4.3 min to solve a puzzle as part of a cognitive test.
 
- 
+<img width="789" height="299" alt="figure 10" src="https://github.com/user-attachments/assets/0e357a44-4ce7-4116-bf90-c46de70e5cd6" />
 
-Figure 10 Clocks (left: analogue; right: digital), for time measurement.
+_Figure 10 Clocks (left: analogue; right: digital), for time measurement._
 
 What do these, and other _measurements_ have in common? Well, they attribute a _number_ to a _concept_. In Table 1 the above examples are summarised, listing the concept or idea and the number assigned by it through a measurement (using a measurement instrument). Note that many numbers also carry a _unit_. Such a unit refers to an agreed standard to which the number can be compared. This defines the meaning of the number. In length one knows what a meter (m) is, because there is an agreed standard to which we could compare what our rulers tells us. We never actually explicitly do this, as the ruler itself can act as such a standard, and is precise enough for most of our daily measurements. This also counts for your tape measure if you are a carpenter. Some measurements do not carry a unit, like IQ in Table 1, because there is no such agreed standard to compare the results of an IQ-test to.
 
