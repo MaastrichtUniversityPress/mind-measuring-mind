@@ -69,7 +69,7 @@ In the new BSc-programme at UM we have defined five different competencies that 
 They are presented around the empirical cycle in Figure 3. These five competencies can be seen in relation to the empirical cycle, as not every competency may be equally relevant for each phase in psychological scientific research. But Figure 3 illustrates that the competencies are really very general and hence may not be uniquely linked to specific parts of the cycle.
 
 <p align="center">
-<img width="1379" height="805" alt="figure 3" src="https://github.com/user-attachments/assets/ffcdb108-09e8-4fd9-b208-684af9cda91c" style="object-fit: contain; display: block; margin: auto; />
+<img width="1379" height="805" alt="figure 3" src="https://github.com/user-attachments/assets/ffcdb108-09e8-4fd9-b208-684af9cda91c"/>
 </p> 
 
 _Figure 3 The empirical cycle, and the five competencies from the UM BSc-programme in psychology._
@@ -92,10 +92,7 @@ As can be seen, quite some preparation is involved in scientific research. As sa
 
 <p align="center">
 <img 
-width="749" 
-height="706" alt="figure 4" 
-  style="object-fit: contain; display: block; margin: auto;
-  src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
+width="749" height="706" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
 </p>
 
 _Figure 4 The empirical cycle embellished with four general phases in research: preparatory, writing, data collection/analysis, publish)._
