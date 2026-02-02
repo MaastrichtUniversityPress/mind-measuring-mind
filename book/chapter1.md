@@ -91,7 +91,7 @@ Obviously, before embarking on an experimental study proper, it has to be prepar
 As can be seen, quite some preparation is involved in scientific research. As said, the activities can overlap. It is possible to already write parts of the research report (blue curve in Figure 4) while some preparatory activities are going on simultaneously. The different activities can be distributed over different persons, so one person can be working on making a study design and planning the experiment, while another is writing the text for the ethical committee, and yet another may already be setting up the report and e.g. writing the introduction section. On the other hand, there are many smaller studies, often those in which students (BSc, MSc, PhD) are involved, in which the student has to do all the tasks her- or himself. Of course this is intentional as one has to learn about all the research related activities.
 
 <p align="center">
-<img width="600" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
+<img width="400" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
 </p>
 
 _Figure 4 The empirical cycle embellished with four general phases in research: preparatory, writing, data collection/analysis, publish)._
