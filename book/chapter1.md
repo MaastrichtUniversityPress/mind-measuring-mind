@@ -47,7 +47,7 @@ The empirical cycle typically includes the following phases:
 In Figure 2 another rendition of the empirical cycle is presented, taken from the context of teaching in psychology. Note that the different visualisations of the empirical research cycle are very similar.
 
 <p align="center">
-<img width="591" height="469" alt="figure 2" src="https://github.com/user-attachments/assets/1bb48c5d-8999-4e52-87d0-9190dc3d5190" />
+<img width="600" height="400" alt="figure 2" src="https://github.com/user-attachments/assets/1bb48c5d-8999-4e52-87d0-9190dc3d5190" />
 </p>
 
 _Figure 2 Variation on the empirical cycle._
@@ -69,7 +69,7 @@ In the new BSc-programme at UM we have defined five different competencies that 
 They are presented around the empirical cycle in Figure 3. These five competencies can be seen in relation to the empirical cycle, as not every competency may be equally relevant for each phase in psychological scientific research. But Figure 3 illustrates that the competencies are really very general and hence may not be uniquely linked to specific parts of the cycle.
 
 <p align="center">
-<img width="1379" height="805" alt="figure 3" src="https://github.com/user-attachments/assets/ffcdb108-09e8-4fd9-b208-684af9cda91c"/>
+<img width="600" height="400" alt="figure 3" src="https://github.com/user-attachments/assets/ffcdb108-09e8-4fd9-b208-684af9cda91c"/>
 </p> 
 
 _Figure 3 The empirical cycle, and the five competencies from the UM BSc-programme in psychology._
@@ -91,8 +91,7 @@ Obviously, before embarking on an experimental study proper, it has to be prepar
 As can be seen, quite some preparation is involved in scientific research. As said, the activities can overlap. It is possible to already write parts of the research report (blue curve in Figure 4) while some preparatory activities are going on simultaneously. The different activities can be distributed over different persons, so one person can be working on making a study design and planning the experiment, while another is writing the text for the ethical committee, and yet another may already be setting up the report and e.g. writing the introduction section. On the other hand, there are many smaller studies, often those in which students (BSc, MSc, PhD) are involved, in which the student has to do all the tasks her- or himself. Of course this is intentional as one has to learn about all the research related activities.
 
 <p align="center">
-<img 
-width="749" height="706" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
+<img width="600" height="400" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
 </p>
 
 _Figure 4 The empirical cycle embellished with four general phases in research: preparatory, writing, data collection/analysis, publish)._
@@ -120,7 +119,7 @@ The last phase (pink/purple in Figure 4) refers to the process of publishing and
 The above mainly refer to _scientific_ publishing activities, but getting research results out to the _non-scientific_ _public_ has become more important over the last couple of years. Writing for a non-expert audience is a special skill, not automatically taught in academic environments, nor a skill that every academic writer possesses.
 
 <p align="center">
-<img width="592" height="465" alt="figure 5" src="https://github.com/user-attachments/assets/9e3cad0e-2064-4611-a83d-babe1cf4b875" />
+<img width="600" height="400" alt="figure 5" src="https://github.com/user-attachments/assets/9e3cad0e-2064-4611-a83d-babe1cf4b875" />
 </p>
 
 _Figure 5 Not just a single empirical cycle, but an empirical helix. Next empirical cycles add to the findings from previous ones._
