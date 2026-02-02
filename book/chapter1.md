@@ -18,7 +18,7 @@ You may have encountered psychological research in some shape or form earlier in
 If you’d rather like to answer ‘no’ to the question if psychology is a science then you may want to find another topic or place to study. 😊
 
 <p align="center">
-<img width="600" height="400" alt="figure 1" src="https://github.com/user-attachments/assets/3629bd7e-8d66-436d-bf81-cc6e6d5cd617" />
+<img width="600" alt="figure 1" src="https://github.com/user-attachments/assets/3629bd7e-8d66-436d-bf81-cc6e6d5cd617" />
 </p>
 
 _Figure 1 Empirical cycle in psychology (portrait: prof dr A.D. de Groot (1914-2006), Dutch psychologist who ‘brought empirical cycle thinking to psychology’ in the Netherlands). (Picture: https://www.researchgate.net/figure/De-Groots-empirical-cycle-We-added-the-Whewell-Peirce-Reichenbach-distinction-between_fig1_326114900)_
@@ -91,7 +91,7 @@ Obviously, before embarking on an experimental study proper, it has to be prepar
 As can be seen, quite some preparation is involved in scientific research. As said, the activities can overlap. It is possible to already write parts of the research report (blue curve in Figure 4) while some preparatory activities are going on simultaneously. The different activities can be distributed over different persons, so one person can be working on making a study design and planning the experiment, while another is writing the text for the ethical committee, and yet another may already be setting up the report and e.g. writing the introduction section. On the other hand, there are many smaller studies, often those in which students (BSc, MSc, PhD) are involved, in which the student has to do all the tasks her- or himself. Of course this is intentional as one has to learn about all the research related activities.
 
 <p align="center">
-<img width="600" height="400" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
+<img width="600" alt="figure 4" src="https://github.com/user-attachments/assets/422a15b3-c0ec-4f81-8ab5-91bf945398fe" />
 </p>
 
 _Figure 4 The empirical cycle embellished with four general phases in research: preparatory, writing, data collection/analysis, publish)._
@@ -119,7 +119,7 @@ The last phase (pink/purple in Figure 4) refers to the process of publishing and
 The above mainly refer to _scientific_ publishing activities, but getting research results out to the _non-scientific_ _public_ has become more important over the last couple of years. Writing for a non-expert audience is a special skill, not automatically taught in academic environments, nor a skill that every academic writer possesses.
 
 <p align="center">
-<img width="600" height="400" alt="figure 5" src="https://github.com/user-attachments/assets/9e3cad0e-2064-4611-a83d-babe1cf4b875" />
+<img width="600" alt="figure 5" src="https://github.com/user-attachments/assets/9e3cad0e-2064-4611-a83d-babe1cf4b875" />
 </p>
 
 _Figure 5 Not just a single empirical cycle, but an empirical helix. Next empirical cycles add to the findings from previous ones._
