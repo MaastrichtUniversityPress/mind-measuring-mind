@@ -18,7 +18,7 @@ You may have encountered psychological research in some shape or form earlier in
 If you’d rather like to answer ‘no’ to the question if psychology is a science then you may want to find another topic or place to study. 😊
 
 <p align="center">
-<img width="565" height="409" alt="figure 1" src="https://github.com/user-attachments/assets/3629bd7e-8d66-436d-bf81-cc6e6d5cd617" />
+<img width="600" height="400" alt="figure 1" src="https://github.com/user-attachments/assets/3629bd7e-8d66-436d-bf81-cc6e6d5cd617" />
 </p>
 
 _Figure 1 Empirical cycle in psychology (portrait: prof dr A.D. de Groot (1914-2006), Dutch psychologist who ‘brought empirical cycle thinking to psychology’ in the Netherlands). (Picture: https://www.researchgate.net/figure/De-Groots-empirical-cycle-We-added-the-Whewell-Peirce-Reichenbach-distinction-between_fig1_326114900)_
