@@ -47,7 +47,7 @@ The empirical cycle typically includes the following phases:
 In Figure 2 another rendition of the empirical cycle is presented, taken from the context of teaching in psychology. Note that the different visualisations of the empirical research cycle are very similar.
 
 <p align="center">
-<img width="600" height="400" alt="figure 2" src="https://github.com/user-attachments/assets/1bb48c5d-8999-4e52-87d0-9190dc3d5190" />
+<img width="600" alt="figure 2" src="https://github.com/user-attachments/assets/1bb48c5d-8999-4e52-87d0-9190dc3d5190" />
 </p>
 
 _Figure 2 Variation on the empirical cycle._
@@ -69,7 +69,7 @@ In the new BSc-programme at UM we have defined five different competencies that 
 They are presented around the empirical cycle in Figure 3. These five competencies can be seen in relation to the empirical cycle, as not every competency may be equally relevant for each phase in psychological scientific research. But Figure 3 illustrates that the competencies are really very general and hence may not be uniquely linked to specific parts of the cycle.
 
 <p align="center">
-<img width="600" height="400" alt="figure 3" src="https://github.com/user-attachments/assets/ffcdb108-09e8-4fd9-b208-684af9cda91c"/>
+<img width="600" alt="figure 3" src="https://github.com/user-attachments/assets/ffcdb108-09e8-4fd9-b208-684af9cda91c"/>
 </p> 
 
 _Figure 3 The empirical cycle, and the five competencies from the UM BSc-programme in psychology._
