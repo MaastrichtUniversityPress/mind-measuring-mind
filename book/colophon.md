@@ -1,3 +1,5 @@
+# Colophon
+
 **_MIND MEASURING MIND_  
 _An introduction to psychological science and research, for discussions in a PBL context._**
 
