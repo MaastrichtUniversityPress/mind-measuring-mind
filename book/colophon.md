@@ -12,7 +12,8 @@ Version: 2026-01 </br>
 Publication date: February 2026  
 DOI: [10.26481/mup.2605](https://doi.org/10.26481/mup.2605)
 
-**Copyright:**  © 2026 Maastricht University
+**Copyright:**  </br>
+© 2026 Maastricht University
 
 <img width="150" alt="ccby" src="https://github.com/user-attachments/assets/4bc267fb-5735-4420-9eb6-59d29f2f08a8" />
 
@@ -21,7 +22,8 @@ This work is published open access under the terms of the Creative Commons Attri
 You are free to share and adapt the material, provided appropriate credit is given.  
 To learn more, visit  [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
 
-**Funding:**  This open textbook was made possible with support from [Maastricht University Library](https://library.maastrichtuniversity.nl/) through funding from [Npuls OpenUp](https://npuls.nl/en/openup-scheme)
+**Funding:**  </br>
+This open textbook was made possible with support from [Maastricht University Library](https://library.maastrichtuniversity.nl/) through funding from [Npuls OpenUp](https://npuls.nl/en/openup-scheme)
 
 <img width="200" alt="UM logo + Library 2024_zonderachtergrond" src="https://github.com/user-attachments/assets/f75b2aef-496b-4ceb-83ce-17052623889f" />
 <img width="150" alt="pag-titellogo-npuls" src="https://github.com/user-attachments/assets/69b0fc72-0ef4-4516-b0e5-ee6c72c5a9c9" />
