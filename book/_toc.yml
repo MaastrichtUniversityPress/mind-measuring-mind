@@ -17,5 +17,5 @@ parts:
     - file: chapter6.md
     - file: chapter7.md
     - file: chapter8.md
-  
+    - file: colophon.md
 
