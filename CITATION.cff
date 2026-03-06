@@ -2,8 +2,8 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'TeachBooks Template' # replace with your own book title when you use this template
-authors: #replace with your own name(s) if you use this template
+title: Mind Measuring Mind # replace with your own book title when you use this template
+authors: Garmt Dijksterhuis
 - email: info@teachbooks.io
   name: 'TeachBooks Development Team'
   website: 'https://teachbooks.io/'
