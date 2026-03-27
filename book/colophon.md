@@ -12,6 +12,8 @@ Version: 1.0.0 </br>
 Publication date: March 2026  
 DOI: [10.26481/mup.2605](https://doi.org/10.26481/mup.2605)
 
+Cover image: © Cartoon by Arend van Dam, used with permission.
+
 **Copyright:**  </br>
 © 2026 Maastricht University
 
